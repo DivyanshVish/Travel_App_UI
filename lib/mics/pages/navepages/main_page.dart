@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:travel_app/mics/pages/navepages/bar_item_page.dart';
-import 'package:travel_app/mics/pages/navepages/home_page.dart';
+import 'package:travel_app/mics/pages/home_page.dart';
 import 'package:travel_app/mics/pages/navepages/my_page.dart';
 import 'package:travel_app/mics/pages/navepages/search_page.dart';
 
